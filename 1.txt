@@ -1,0 +1,3 @@
+cd /Users/safronovivan/Desktop/Учёба/ИИ/lab1
+python3 -m venv .venv
+source .venv/bin/activate
